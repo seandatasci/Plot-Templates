@@ -1,2 +1,2 @@
 # Plot-Templates
-Examples of plots using various packages
+Advancements and implementations of plots using various packages
